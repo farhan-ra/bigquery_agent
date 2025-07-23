@@ -1,5 +1,6 @@
 src/tools/bigquery/data_exploration.ipynb
 src/tools/bigquery/bigquery_access_key.json
+bigquery_access_key.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
